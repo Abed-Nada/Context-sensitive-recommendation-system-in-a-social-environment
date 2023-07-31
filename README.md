@@ -4,7 +4,7 @@ Recommendation systems aim to automatically suggest to users items that are rela
   + Main Menu :
   ![My Image](Images/Menu.PNG)
   + Models :
-  ![My Image](Images/Menu.PNG)
+  ![My Image](Images/models.PNG)
   + Datasets :
   ![My Image](Images/datasets.PNG)
   ![My Image](Images/datasets1.PNG)
