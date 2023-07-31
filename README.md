@@ -3,22 +3,22 @@ Recommendation systems aim to automatically suggest to users items that are rela
 + Screenshots of our graphical interface devlopped with java:
   + Main Menu :
   ![My Image](Images/Menu.PNG)
-  + Models :
+  + Models:
   ![My Image](Images/models.PNG)
-  + Datasets :
+  + Datasets:
   ![My Image](Images/datasets.PNG)
   ![My Image](Images/datasets1.PNG)
   ![My Image](Images/datasets2.PNG)
-  + Train :
+  + Train:
   ![My Image](Images/train.PNG)
   ![My Image](Images/train2.PNG)
   ![My Image](Images/train3.PNG)
   ![My Image](Images/train4.PNG)
-  + Prediction :
+  + Prediction:
   ![My Image](Images/predict.PNG)
   ![My Image](Images/predict2.PNG)
   ![My Image](Images/predict3.PNG)
   ![My Image](Images/predict4.PNG)
-  + Tests & results :
+  + Tests & results:
   ![My Image](Images/tests-and-results.PNG)
     
