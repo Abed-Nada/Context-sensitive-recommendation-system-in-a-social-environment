@@ -22,3 +22,7 @@ Recommendation systems aim to automatically suggest to users items that are rela
   + Tests & results:
   ![My Image](Images/tests-and-results.PNG)
     
+    ## Contributors
+- [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
+
